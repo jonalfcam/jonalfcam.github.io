@@ -1,8 +1,6 @@
-# Research Interests
-
 # Published
 
-- **Devissage and Localization for the Grothendieck Spectrum of Varieties** (joint w/ Inna Zakharevich)
+- **Devissage and Localization for the Grothendieck Spectrum of Varieties** (joint w/ Inna Zakharevich). 2022. 
   - Published in [Advances](https://www.sciencedirect.com/science/article/pii/S0001870822005278)
   - [arxiv version](https://arxiv.org/abs/1811.08014)
 
@@ -10,7 +8,7 @@
   - Published in [AGT](https://projecteuclid.org/journals/algebraic-and-geometric-topology/volume-22/issue-2/Iterated-traces-in-2categories-and-Lefschetz-theorems/10.2140/agt.2022.22.815.short)
   - [arxiv version](https://arxiv.org/pdf/1908.07497.pdf)
   
-- ** Topological Hochschild Homology and Higher Characteristics** (joint w/ Kate Ponto). 2019.
+- **Topological Hochschild Homology and Higher Characteristics** (joint w/ Kate Ponto). 2019.
   - Published in [AGT](https://msp.org/agt/2019/19-2/agt-v19-n2-p08-s.pdf)
   - [arxiv version](https://arxiv.org/pdf/1803.01284.pdf)
 
@@ -31,19 +29,22 @@
 
 - **Riemann-Roch theorems in monoidal 2-categories** (joint w/ Kate Ponto)
   - To appear in Quarterly Journal of Mathematics
+  - [arxiv](https://arxiv.org/abs/2203.04351)
 
 # Submitted
 - **Hilbert's Third Problem and a Conjecture of Goncharov** (joint w/ Inna Zakharevich)
-  -[arxiv](https://arxiv.org/abs/1910.07112)
+  - [arxiv](https://arxiv.org/abs/1910.07112)
 
-- **Spectral Waldhausen categories, the S∙-construction, and the Dennis trace**
+- **Spectral Waldhausen categories, the S∙-construction, and the Dennis trace** (joint w/ John Lind, Cary Malkiewich, Kate Ponto, Inna Zakharevich)
+  - [arxiv](https://arxiv.org/abs/2006.04006)
 
-- **K-theory of endomorphisms, the TR-trace, and zeta functions** 
-
+- **K-theory of endomorphisms, the TR-trace, and zeta functions** (joint w/ John Lind, Cary Malkiewich, Kate Ponto, Inna Zakharevich)
+  - [arxiv](https://arxiv.org/abs/2005.04334)
 
 # In Preparation
 
 - **K-Theory with Squares** (joint w/ Mona Merling and Inna Zakharevich)
+- **Translation Scissors Congruence** (joint w/ Inna Zakharevich)
 
 
 # Preprints / Never prints
@@ -52,4 +53,5 @@
   - [arxiv version](https://arxiv.org/abs/1708.04264)
   - Though this contains some novel computations, this will likely never be published.
 
-- **Facets of the Witt Vectors**. 
+- **Facets of the Witt Vectors**.
+  -[arxiv](https://arxiv.org/abs/1910.10206)
