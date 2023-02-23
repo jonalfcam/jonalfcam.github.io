@@ -48,7 +48,7 @@
 
 - **K-Theory with Squares** (joint w/ Mona Merling and Inna Zakharevich)
 - **Translation Scissors Congruence** (joint w/ Inna Zakharevich)
-
+- **Unnamed Projected on Witt Vectors**
 
 # Preprints / Never prints
 
@@ -60,4 +60,5 @@
   - [arxiv](https://arxiv.org/abs/1910.10206)
   - An exposition of the Witt vectors contains a (as far as I know), novel norm map.
 
-- **
+- **Topological Hochschild Homology and Koszul Duality**
+  -[arxiv](https://arxiv.org/abs/1401.5147)
