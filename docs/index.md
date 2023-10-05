@@ -1,6 +1,4 @@
-<meta name="google-site-verification" content="AnrMnPPNP9mKqCqT2a4PGBJGpMrM0UeJEQhN_Roc9cw" />
-
-# Jonathan Campbell
+# Jonathan Campbell 
 
 I am a mathematician working in San Diego. I specialize in homotopy theory and algebraic $K$-theory
 
