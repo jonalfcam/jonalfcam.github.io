@@ -1,5 +1,9 @@
 # Published
 
+- **Riemann-Roch theorems in monoidal 2-categories** (joint w/ Kate Ponto)
+  - Published in [Quarterly Journal of Mathematics](https://academic.oup.com/qjmath/article-abstract/74/3/1119/7111229)
+  - [arxiv](https://arxiv.org/abs/2203.04351)
+  
 - **Devissage and Localization for the Grothendieck Spectrum of Varieties** (joint w/ Inna Zakharevich). 2022. 
   - Published in [Advances](https://www.sciencedirect.com/science/article/pii/S0001870822005278)
   - [arxiv version](https://arxiv.org/abs/1811.08014)
@@ -30,13 +34,14 @@
 
 # Accepted
 
-- **Riemann-Roch theorems in monoidal 2-categories** (joint w/ Kate Ponto)
-  - To appear in Quarterly Journal of Mathematics
-  - [arxiv](https://arxiv.org/abs/2203.04351)
-
-# Submitted
 - **Hilbert's Third Problem and a Conjecture of Goncharov** (joint w/ Inna Zakharevich)
   - [arxiv](https://arxiv.org/abs/1910.07112)
+
+
+# Submitted / Preprints
+
+- **Algebraic K-Theory for Square Categories** (joint w/ Josefien Kuijper, Mona Merling, Inna Zakharevich)
+  - [arxiv](https://arxiv.org/abs/2310.02852)
 
 - **Spectral Waldhausen categories, the S∙-construction, and the Dennis trace** (joint w/ John Lind, Cary Malkiewich, Kate Ponto, Inna Zakharevich)
   - [arxiv](https://arxiv.org/abs/2006.04006)
@@ -46,9 +51,9 @@
 
 # In Preparation
 
-- **K-Theory with Squares** (joint w/ Mona Merling and Inna Zakharevich)
 - **Translation Scissors Congruence** (joint w/ Inna Zakharevich)
-- **Unnamed Projected on Witt Vectors**
+- **Unamed Project on Cyclotomic Trace**
+- **Unnamed Project on Witt Vectors**
 
 # Preprints / Never prints
 
